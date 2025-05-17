@@ -1,0 +1,5 @@
+[2025-05-14 10:24:31] ERROR: Service 'auth-service' failed to respond within timeout threshold (5000ms)
+[2025-05-14 10:24:32] INFO: Kubernetes rescheduling pod 'auth-service-74c9d'
+[2025-05-14 10:24:34] WARNING: High CPU usage detected in 'auth-service' node
+[2025-05-14 10:24:37] INFO: Traffic rerouted to backup instance
+[2025-05-14 10:24:40] INFO: Service restored
